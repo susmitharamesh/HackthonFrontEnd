@@ -7,7 +7,7 @@ import Login from './ShoppingSite/Login';
 import About from './ShoppingSite/About';
 import Navbar from './ShoppingSite/Navbar';
 
-
+console.log("fhdbkjdkd")
 import Error from './ShoppingSite/error';
 import List from './ShoppingSite/list';
 import Product from './ShoppingSite/product';
